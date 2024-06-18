@@ -1,0 +1,12 @@
+body{
+    background-color: lightcoral;
+}
+.slogan{
+    width: 450;
+    height: 300;
+    border: solid 2px #fff;
+    border-radius:20px ;
+    margin: auto;
+    text-align: center;
+    
+}

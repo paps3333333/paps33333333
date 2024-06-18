@@ -1,0 +1,49 @@
+#contain {
+    width: 980;
+    margin: 40px;
+    border: 1px solid #d063da;
+    background-color: rgb(207, 138, 114);
+}
+
+h1 span {
+    font-size: meium;
+}
+
+.photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: #6d723e;
+    margin-right: 200px;
+}
+
+
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    width: 120px;
+    margin: 10px;
+
+}
+
+nav ul li {
+    background-color: #13b844;
+    padding: 20px;
+    width: 160px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    width: 160;
+}
+
+nav ul li a:hover {
+    background-color: bisque;
+    color: aqua;
+    padding: 20px;
+
+}
